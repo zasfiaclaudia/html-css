@@ -1,0 +1,47 @@
+div {
+    width: 70%;
+    margin: auto;
+}
+
+h1 {
+    color: red;
+    border: 1px solid brown;
+    position: relative;
+    top: 10px;
+}
+
+h2 {
+    color: blue;
+    border: 1px dashed blue;
+}
+
+p {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+img {
+    border: 1px solid green;
+    margin: 0px ;
+}
+
+ul li {
+    background: yellow;
+}
+
+#paragraf {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.huruf {
+    font-size: 25px;
+}
+
+.warna {
+    background: rgb(248, 3, 187);
+}
+
+.bentuk {
+    font-style: italic;
+}
+
